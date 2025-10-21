@@ -4,6 +4,10 @@ A simple snake game for **RARS** (RISC-V Assembler and Runtime Simulator). It de
 
 > This project depends on RARS **Keyboard & Display MMIO Simulator** and **Timer Tool**. Other simulators (Venus/Spike/QEMU) do not provide these peripherals without porting.
 
+<p align="center">
+  <img src="riscv_demo.gif" alt="RISC-V Snake gameplay demo" width="1000">
+</p>
+
 ---
 
 ## Repository Layout
